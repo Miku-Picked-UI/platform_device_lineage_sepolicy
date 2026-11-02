@@ -1,3 +1,0 @@
-allow postinstall block_device:dir search;
-
-allow postinstall custom_ab_block_device:blk_file r_file_perms;
